@@ -4,8 +4,8 @@
 
 layout: default
 person :
-       - ad: Asist.Prof.Dr Andaç HAMAMCI
-         makam: Associate Department Head and Lab Supervisor
+       - ad: Dr. Andaç HAMAMCI
+         makam: Lab Supervisor
          mail: andac.hamamci@yeditepe.edu.tr
          image: "img/andac_hamamci.png"
          interest : Medical Image Analysis, Image Guided Therapies, Magnetic Resonance Imaging, Neuroimaging, Artifical Intellegence In Medicine
