@@ -7,7 +7,9 @@ layout: default
 <html>
 
   <div class="p-3 mb-2 bg-primary text-white">
-    <h2>Yeditepe Biomedical Engineering Department Medical Imaging Laboratory</h2>
+    <h3>Yeditepe University
+      Department of Biomedical Engineering 
+      Medical Imaging Laboratory</h3>
     </div>
     <img src="img/university.jpg" width="auto" height="auto" alt="Logo"  class="d-inline-block align-top" >  
     <div class="spacer5"></div>
