@@ -12,7 +12,7 @@ person :
        - ad: Ahmet Emin Yetkin
          makam: Research Assistant
          mail: ahmet.yetkin@yeditepe.edu.tr
-         image: "img/ahmet_emin.png"
+         image: "img/ahmet_emin.PNG"
          interest : Medical Imaging, Computer Vision, Artificial Intelligence
        - ad: S.Serdar Helli
          makam: Master's Degree Student
