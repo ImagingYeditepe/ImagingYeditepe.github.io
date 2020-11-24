@@ -7,7 +7,7 @@ layout: default
 
 ## Education
 
-# Medical Imaging
-# Medical Image Processing with Python
-# Magnetic Resonance Imaging
-# Artificial Intelligence in Medicine
+### Medical Imaging
+### Medical Image Processing with Python
+### Magnetic Resonance Imaging
+### Artificial Intelligence in Medicine
