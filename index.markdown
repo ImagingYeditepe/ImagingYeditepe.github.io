@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
 ---
 
 <h2>About</h2>
@@ -10,3 +10,7 @@ layout: home
 Additionaly, most of the electronic equipment needed in some projects are also in the laboratory. (Linear Current source, multimeter, soldering machine, ... etc)
 Projects carried out within the scope of the imaging laboratory are mostly aimed at solving a real-life problem using image processing techniques through programming.
 
+
+
+
+{%- include contact.html -%}
