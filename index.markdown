@@ -6,7 +6,7 @@ layout: default
 ---
 
 ## About
-**Biomedical Engineering Our laboratory**  is mostly used for projects that require high processing power, such as 3D modeling of medical images or running artificial learning algorithms. 
+Our laboratory  is mostly used for projects that require high processing power, such as 3D modeling of medical images or running artificial learning algorithms. 
 Projects carried out within the scope of the imaging laboratory are mostly aimed at solving a real-life problem using image processing techniques through programming.
 
 ## Lab Equipment
