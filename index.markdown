@@ -9,7 +9,7 @@ layout: default
 **Biomedical Engineering Our laboratory**  is mostly used for projects that require high processing power, such as 3D modeling of medical images or running artificial learning algorithms. 
 Projects carried out within the scope of the imaging laboratory are mostly aimed at solving a real-life problem using image processing techniques through programming.
 
-**Lab Equipment**
+###Lab Equipment
 * Dell Workstation 21” Full HD Monitor, Intel Xeon processor, 32gb RAM, SSD disk, NVIDIA GTX 1080Ti graphics card
 * Dell Workstation 21” Full HD Monitor, Intel Xeon processor, 32gb RAM, SSD disk, NVIDIA GTX 1050Ti graphics card
 * 2 x Dell Workstation 21” Full HD Monitor, Intel Xeon processor, 16gb RAM, SSD disk
