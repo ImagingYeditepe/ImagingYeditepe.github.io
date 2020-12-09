@@ -24,4 +24,4 @@ Projects carried out within the scope of the imaging laboratory are mostly aimed
 {%- include contact.html -%}
 
 ## Testing
-{{ test.markdown }}
+{{ test }}
