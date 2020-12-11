@@ -8,7 +8,7 @@ layout: default
 
 <details>
   <summary>Diffusion MRI Fiber Tractography</summary>
-  
+
   ## Heading
 
 </details>
