@@ -4,10 +4,8 @@
 
 layout: default
 ---
- 
 
-
-   September 15 2020-Our labratory website has been established!
+   September 15 2020-Laboratory website has been established!
 
 
    {%- include social_media.html -%}
