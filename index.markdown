@@ -4,11 +4,11 @@
 
 layout: default
 ---
-
 ## About
-Our laboratory  is mostly used for projects that require high processing power, such as 3D modeling of medical images or running artificial learning algorithms. 
-Projects carried out within the scope of the imaging laboratory are mostly aimed at solving a real-life problem using image processing techniques through programming.
-
+Yeditepe Medical Imaging Laboratory aims to solve healthcare problems, which involve medical imaging techniques, in close collaboration with Yeditepe University Hospitals, other academic institutions and industrial partners. The fields of expertise include:
+* Neuroimaging Methods
+* Medical Image Analysis / Machine Learning
+* Magnetic Resonance Imaging / Pulse Sequences
 ## Lab Equipment
 * Dell Workstation 21” Full HD Monitor, Intel Xeon processor, 32gb RAM, SSD disk, NVIDIA GTX 1080Ti graphics card
 * Dell Workstation 21” Full HD Monitor, Intel Xeon processor, 32gb RAM, SSD disk, NVIDIA GTX 1050Ti graphics card
@@ -19,9 +19,5 @@ Projects carried out within the scope of the imaging laboratory are mostly aimed
 * LENS M5018-MP F1.8 f50mm 
 * Ultrasonography B-Mode, 3.5MHz, Linear Array
 * Basic electronic equipment Multimeter, Soldering , LEDs ... etc
-
 ## Contact
 {%- include contact.html -%}
-
-## Testing
-{{ test }}
