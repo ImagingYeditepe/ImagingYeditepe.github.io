@@ -4,7 +4,7 @@
 
 layout: default
 person :
-       - ad: Dr. Andaç HAMAMCI
+       - ad: Dr. Andaç Hamamcı
          makam: Lab Supervisor
          mail: andac.hamamci@yeditepe.edu.tr
          image: "img/andac_hamamci.png"
@@ -24,6 +24,21 @@ person :
          mail: mertefe.yildiz@std.yeditepe.edu.tr
          image: "img/mert_yildiz.png"
          interest : Medical Imaging, Computer Vision, Artificial Intelligence
+       - ad: Aysen Çeliktaş 
+         makam: Master's Degree Student
+         mail: aysen.celiktas@surgivis.com
+         image: ""
+         interest : Visualisation, Medical Imaging, Artificial Intelligence
+       - ad: Çağla Dayan 
+         makam: Master's Degree Student
+         mail: cagla.dayan@surgivis.com
+         image: ""
+         interest : Visualisation, Medical Imaging, Artificial Intelligence
+       - ad: Burhan Yusuf Arat 
+         makam: Master's Degree Student
+         mail: burhanarat@outlook.com
+         image: ""
+         interest : Medical Imaging, Encryption
 
 
 
