@@ -21,7 +21,7 @@
 title: Yeditepe Medical Imaging Laboratory
 email: yeditepemedicalimaging@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Yeditepe Imaging Laboratary
+  Yeditepe Imaging Laboratory
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ImagingYeditepe
