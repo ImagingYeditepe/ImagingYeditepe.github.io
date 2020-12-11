@@ -25,6 +25,3 @@ Yeditepe Medical Imaging Laboratory aims to solve healthcare problems, which inv
 ## Contact
 {%- include contact.html -%}
 
-## Testing
-[here](./test.markdown) 
-
