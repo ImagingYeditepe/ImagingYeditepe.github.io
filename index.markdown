@@ -9,8 +9,9 @@ Yeditepe Medical Imaging Laboratory aims to solve healthcare problems, which inv
 * Neuroimaging Methods
 * Medical Image Analysis / Machine Learning
 * Magnetic Resonance Imaging / Pulse Sequences
+* Visualisation / 3D Modelling
 
-## Lab Equipment
+### Lab Equipment
 * Dell Workstation 21” Full HD Monitor, Intel Xeon processor, 32gb RAM, SSD disk, NVIDIA GTX 1080Ti graphics card
 * Dell Workstation 21” Full HD Monitor, Intel Xeon processor, 32gb RAM, SSD disk, NVIDIA GTX 1050Ti graphics card
 * 2 x Dell Workstation 21” Full HD Monitor, Intel Xeon processor, 16gb RAM, SSD disk
