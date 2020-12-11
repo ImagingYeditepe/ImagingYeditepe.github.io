@@ -7,10 +7,10 @@ layout: default
 ---
 
 <details>
-  <summary>Diffusion MRI Fiber Tractography</summary>
+<summary>Diffusion MRI Fiber Tractography</summary>
 
-  ## Heading
-
+## Heading
+Testing
 </details>
 
 <details>
