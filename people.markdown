@@ -44,5 +44,6 @@ person :
 
 ---
 
+## People
 
 {%- include peo.html -%}
