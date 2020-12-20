@@ -6,32 +6,8 @@ layout: default
 
 ---
 
-<details>
-<summary>Diffusion MRI Fiber Tractography</summary>
+### Diffusion MRI Fiber Tractography
+### Brain Tumor Image Analysis
+### Functional MRI Applications
 
-## Heading
-Testing
-</details>
-
-<details>
-  <summary>Brain Tumor Segmentation</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-
-<details>
-  <summary>Functional MRI Applications</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-
-
-## Student Projects
+### Student Projects
