@@ -9,7 +9,7 @@ layout: default
 
 ### Diffusion MRI Fiber Tractography
 
-Cellullar Automata Tractography method, which is implemented on GPU, allows shortest-paths tractography under one second runtime.[Code and Paper](https://github.com/andachamamci/CATractography) | ![Image](/images/catractography-fig9.jpg)
+Cellullar Automata Tractography method, which is implemented on GPU, allows shortest-paths tractography under one second runtime.[Code and Paper](https://github.com/andachamamci/CATractography) | ![Image](/img/catractography-fig9.jpg)
  
 ### Brain Tumor Image Analysis
 ### Functional MRI Applications
