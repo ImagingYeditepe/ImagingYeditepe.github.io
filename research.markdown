@@ -15,7 +15,7 @@ layout: default
 
 #### Functional MRI Applications
 
-**EFFECTS OF MENSTRUAL CYCLE ON RESTING STATE FUNCTIONAL CONNECTIVITY IN SCHIZOPHRENIA** <br> The present study investigates resting state functional connectivity (RS-FC) alterations related to menstrual cycle phase and/or hormone levels in patients with schizophrenia and healthy controls and aims to contribute to the understanding of the effects of ovarian hormones on the pathogenesis of schizophrenia and brain functions. [Abstract](https://academic.oup.com/schizophreniabulletin/article/46/Supplement_1/S284/5839513)
+**Effects of Menstrual Cycle on Resting State Functional Connectivity in Schizophrenia** <br> The study investigates resting state functional connectivity (RS-FC) alterations related to menstrual cycle phase and/or hormone levels in patients with schizophrenia and healthy controls and aims to contribute to the understanding of the effects of ovarian hormones on the pathogenesis of schizophrenia and brain functions. [Abstract](https://academic.oup.com/schizophreniabulletin/article/46/Supplement_1/S284/5839513)
 
 ***
 
