@@ -31,7 +31,6 @@ In **Determination of Fiber Tracts on the Diffusion Phantom Using Q-Routing Meth
 
 ***
 
-#### Brain Tumor Image Analysis
+#### Other Projects
 
-
-#### Student Projects
+| ![Image](/img/figepi.png) |**Epileptic Focus Identification Based on Hemispheric Asymmetry using Surface Based Analysis** study aimed to localize the cortical malformations of epileptic patients using surface based morphological analysis. [Paper](https://ieeexplore.ieee.org/document/7374607)|
