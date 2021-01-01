@@ -49,6 +49,6 @@ img {
 }
 
 
-img[alt=Image] { 
+img[alt=ResImage] { 
   width: 200px; 
 }
