@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-img[alt=Image] { width: 200px; }
+img[alt="Image"] { width: 200px; }
 
 body {
  
