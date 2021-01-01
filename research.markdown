@@ -17,7 +17,7 @@ layout: default
 
 | ![Image](/img/fignoddi.png) |**Comparison of Inter-Regional and Inter-Subject Variations of Cortical NODDI and DTI Parameters**, aims to investigate the relationship between the regional microstructural differences of the cerebral cortex and diffusion MR parameters, that are obtained by fitting a single tensor model or three compartmental NODDI model. The parameters measured by diffusion MRI have some regional specificities through the cortex. The discriminant function coefficients for each parameter indicates that OD of NODDI model is the most important parameter where ISOVF is less important to capture the regional structural differences of the cortex. [OHBM Abstract](/docs/OHBM-NODDI.pdf)|
 
-In **Determination of Fiber Tracts on the Diffusion Phantom Using Q-Routing Method**, the application of Q-routing method to the diffusion MR fiber tractography problem is proposed. The results reveal the potential of the proposed method on the diffusion MR fiber tractography problem. [Abstract](https://ieeexplore.ieee.org/abstract/document/9299310)
+In **Determination of Fiber Tracts on the Diffusion Phantom Using Q-Routing Method**, the application of Q-routing method to the diffusion MR fiber tractography problem is proposed. The results reveal the potential of the proposed method on the diffusion MR fiber tractography problem. [Paper](https://ieeexplore.ieee.org/document/9299310)
 
 ***
 
@@ -33,4 +33,8 @@ In **Determination of Fiber Tracts on the Diffusion Phantom Using Q-Routing Meth
 
 #### Other Projects
 
+|The aim of **Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network** is to evaluate the value of Long Short-Term Memory (LSTM) Networks in forecasting the total number of COVID-19 cases in Turkey.
+ Holt-Winters Additive method with Damped Trend gives superior results to LSTM Networks in forecasting the total number of COVID-19 cases. Addition of the number of deaths data to the input, results a lower error in forecasting, compared to using only the number of total cases as the input. [Paper](https://ieeexplore.ieee.org/document/9299235)| ![Image](/img/covid.PNG) |
+
 | ![Image](/img/figepi.png) |**Epileptic Focus Identification Based on Hemispheric Asymmetry using Surface Based Analysis** study aimed to localize the cortical malformations of epileptic patients using surface based morphological analysis. [Paper](https://ieeexplore.ieee.org/document/7374607)|
+
