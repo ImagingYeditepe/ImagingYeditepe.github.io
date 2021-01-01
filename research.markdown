@@ -31,12 +31,14 @@ In **Determination of Fiber Tracts on the Diffusion Phantom Using Q-Routing Meth
 
 ***
 
-#### Other Projects
+#### Student Projects
 
 |The aim of **Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network** is to evaluate the value of Long Short-Term Memory (LSTM) Networks in forecasting the total number of COVID-19 cases in Turkey. Holt-Winters Additive method with Damped Trend gives superior results to LSTM Networks in forecasting the total number of COVID-19 cases. Addition of the number of deaths data to the input, results a lower error in forecasting, compared to using only the number of total cases as the input. [Paper](https://ieeexplore.ieee.org/document/9299235)| ![Image](/img/covid.PNG) |
 
 | ![Image](/img/usphantom.png) |Ultrasonography is the method that is routinely applied for
 screening and classification of hip dysplasia in newborns. Phantoms, that can mimic the acoustic characteristics of human tissues, are needed in ultrasound training or in the calibration of devices. In **Newborn Hip Ultrasonography Training Phantom** polylactic acid (PLA) for simulating the bone tissue and gelatin for soft tissue were aimed to create a newborn hip ultrasonography phantom for training purposes. [Paper](https://ieeexplore.ieee.org/document/8479276)|
+
+|Cranioplasty is the surgical operation to repair the cranial defects both in cosmetic and functional ways. In **3D Printing and PMMA Molding Study for a Cranioplasty Application**, a method to copy the geometry of the cranial bone model constructed in digital environment to PMMA by using 3d printing and molding technique, is presented. The factors, affecting the error, are evaluated by comparing the geometries arise at each step of the multi-stage technique. [Paper](/docs/049_cranioplasty.pdf)| ![Image](/img/cranioplasty.png) |
 
 | ![Image](/img/figepi.png) |**Epileptic Focus Identification Based on Hemispheric Asymmetry using Surface Based Analysis** study aimed to localize the cortical malformations of epileptic patients using surface based morphological analysis. [Paper](https://ieeexplore.ieee.org/document/7374607)|
 
