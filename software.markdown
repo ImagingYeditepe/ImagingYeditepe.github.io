@@ -8,4 +8,9 @@ layout: default
 
 ## Software
 
+[NuNuTRUBA](https://github.com/ImagingYeditepe/NuNuTRUBA)
+
+[Cellular Automata Tractography](https://github.com/andachamamci/CATractography)
+
+[Tumor-Cut](https://github.com/andachamamci/TumorCut)
 
