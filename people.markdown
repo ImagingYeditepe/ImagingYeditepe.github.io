@@ -27,12 +27,12 @@ person :
        - ad: Aysen Çeliktaş 
          makam: Master's Degree Student
          mail: aysen.celiktas@surgivis.com
-         image: ""
+         image: "img/aysen.jpg"
          interest : Visualisation, Medical Imaging, Artificial Intelligence
        - ad: Çağla Dayan 
          makam: Master's Degree Student
          mail: cagla.dayan@surgivis.com
-         image: ""
+         image: "img/cagla.jpg"
          interest : Visualisation, Medical Imaging, Artificial Intelligence
        - ad: Burhan Yusuf Arat 
          makam: Master's Degree Student
