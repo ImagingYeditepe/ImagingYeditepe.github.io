@@ -37,7 +37,7 @@ person :
        - ad: Burhan Yusuf Arat 
          makam: Master's Degree Student
          mail: burhanarat@outlook.com
-         image: ""
+         image: "img/burhan_arat.png"
          interest : Medical Imaging, Encryption
 
 
