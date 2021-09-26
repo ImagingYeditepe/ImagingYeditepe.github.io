@@ -7,7 +7,7 @@ layout: default
 
 ## Education
 
-{%- include https://github.com/ImagingYeditepe/ImagingYeditepe.github.io/gejss_model_Ultrasound/index.html -%}
+{%- include https://github.com/ImagingYeditepe/ImagingYeditepe.github.io/ejss_model_Ultrasound/index.html -%}
 
-[Ultrasound Simulator](https://github.com/ImagingYeditepe/ImagingYeditepe.github.io/gejss_model_Ultrasound/index.html)
+[Ultrasound Simulator](https://github.com/ImagingYeditepe/ImagingYeditepe.github.io/ejss_model_Ultrasound/index.html)
 
