@@ -1,0 +1,24 @@
+generated-with: Easy Java/Javascript Simulations, version 6.0, build 191124. Visit http://www.um.es/fem/Ejs
+title: Interactions of Ultrasound with Matter
+logo-image: 
+author: Hakan Ozkan
+copyright: 
+preferred-width: 800
+preferred-height: 600
+author-image: 
+source: Ultrasound.ejss
+main-script: 
+main-simulation: Ultrasound_Simulation.xhtml
+available-languages: 
+html-contents: Ultrasound_Contents.xhtml
+html-main: Ultrasound.xhtml
+page-title: Interactions of Ultrasound with Matter
+page-index: Ultrasound_Simulation.xhtml
+resource: ultrasoundfiles/2.png
+resource: ultrasoundfiles/1.png
+resource: ultrasoundfiles/reset.jpg
+resource: ultrasoundfiles/pause.png
+resource: ultrasoundfiles/transducer1.png
+resource: ultrasoundfiles/play.png
+resource: ultrasoundfiles/arrow2.png
+resource: ultrasoundfiles/arrow.png
