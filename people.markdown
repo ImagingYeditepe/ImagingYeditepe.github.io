@@ -39,6 +39,11 @@ person :
          mail: burhanarat@outlook.com
          image: "img/burhan_arat.png"
          interest : Medical Imaging, Encryption
+       - ad: Handenur Genç 
+         makam: Master's Degree Student
+         mail: handegencc@hotmail.com
+         image: "img/handenur.jpeg"
+         interest : Artificial Intelligence, fMRI
 
 
 
