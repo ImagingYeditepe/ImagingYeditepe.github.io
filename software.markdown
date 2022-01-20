@@ -8,7 +8,7 @@ layout: default
 
 ## Software
 
-[Measurement of Merchant Angles](https://drive.google.com/file/d/10PoyChem-OduniI0AVLBPeHN3sHg_DI1/view?usp=sharing)
+|[Measurement of Merchant Angles](https://drive.google.com/file/d/10PoyChem-OduniI0AVLBPeHN3sHg_DI1/view?usp=sharing) is a fully automated method to measure Patellar Congruence Angle and Tilt Angle based on CNN landmark localizers. | ![Image](/img/MerchantUI.PNG) |
 
 [NuNuTRUBA](https://github.com/ImagingYeditepe/NuNuTRUBA)
 
