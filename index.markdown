@@ -6,8 +6,8 @@ layout: default
 ---
 ## About
 Yeditepe Medical Imaging Laboratory aims to solve healthcare problems, which involve medical imaging techniques, in close collaboration with Yeditepe University Hospitals, other academic institutions and industrial partners. The fields of expertise include:
-* Neuroimaging Methods
-* Medical Image Analysis / Machine Learning
+* Machine Learning / Artificial Intelligence
+* Neuroimaging Methods / Medical Image Analysis 
 * Magnetic Resonance Imaging / Pulse Sequences
 * Visualisation / 3D Modelling
 
