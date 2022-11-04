@@ -15,6 +15,8 @@ In **Determination of Fiber Tracts on the Diffusion Phantom Using Q-Routing Meth
 
 |The aim of **Short-Term Forecasting COVID-19 Cases In Turkey Using Long Short-Term Memory Network** is to evaluate the value of Long Short-Term Memory (LSTM) Networks in forecasting the total number of COVID-19 cases in Turkey. Holt-Winters Additive method with Damped Trend gives superior results to LSTM Networks in forecasting the total number of COVID-19 cases. Addition of the number of deaths data to the input, results a lower error in forecasting, compared to using only the number of total cases as the input. [Paper](https://ieeexplore.ieee.org/document/9299235)| ![Image](/img/covid.PNG) |
 
+| ![Image](/img/dentalseg.PNG) |In **Tooth Instance Segmentation on Panoramic Dental Radiographs Using U-Nets and Morphological Processing** we propose a post-processing stage to obtain a segmentation map in which the objects in the image are separated, and apply this technique to tooth instance segmentation with U-Net network. [Paper](https://dergipark.org.tr/en/pub/dubited/issue/68307/950568) [HF Demo](https://huggingface.co/spaces/ImagingYeditepe/Segmentation-of-Teeth-in-Panoramic-X-ray-Image-Using-U-Net)
+
 |[Measurement of Merchant Angles](https://drive.google.com/file/d/10PoyChem-OduniI0AVLBPeHN3sHg_DI1/view?usp=sharing) is a fully automated method to measure Patellar Congruence Angle and Tilt Angle on Merchant Knee radiographs, employing CNN landmark localizers. | ![Image](/img/MerchantUI.PNG) |
 
 ***
